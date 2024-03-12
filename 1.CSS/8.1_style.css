@@ -1,0 +1,52 @@
+*{        /* universal selector */
+    font-family: Lucida Sans;
+     background-color: rgb(31, 154, 113); 
+}
+
+#login{   /* id selector */
+    background-color: blue;
+    color: pink;
+}
+
+#signup{
+    background-color: yellow;
+    color: red;
+}
+
+h1,           /* multiple selector */
+h3 {
+    color: #b92b27 ;
+}
+
+.follow{      /* class selector */
+    color:rgb(95, 9, 26);
+}
+
+ nav ul li a {          /*decendent selector */
+    color: red;
+
+}
+
+p + h3{     /*adjecent sibling combinator*/
+    text-decoration: underline;
+}
+
+.upvote + button{
+    background-color: rgb(255, 0, 85);
+}
+
+.upvote{
+    color: green;
+    background-color: violet;
+
+}
+
+/* to apply pseudo class -> :hover */
+button:hover{
+    background-color: black;
+}
+
+/* active pseudo  */
+button:active{
+    background-color: chartreuse;
+}

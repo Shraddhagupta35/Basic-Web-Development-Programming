@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+h1 {
+    color: blue;
+
+}
+
+h1,h3,h5{
+    font-family: Georgia;
+
+}
+
+div button{
+    background-color: purple;
+    color: azure;
+}
+
+.content{
+    background-color: cornflowerblue;
+    color: white;
+}

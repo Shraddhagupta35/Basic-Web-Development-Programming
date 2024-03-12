@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 500px;
+    border-width: 5px; 
+    border-style: double;
+    border-left: 5px solid purple;
+    border-radius: 15px;
+
+}
+
+h1{
+    border : 2px dashed rebeccapurple
+}

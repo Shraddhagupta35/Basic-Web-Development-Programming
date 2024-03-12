@@ -1,0 +1,19 @@
+*{
+    font-family: Courier New;
+    
+}
+
+h1{
+    color: #1b74e4;
+    box-sizing: 0 0 20px #00ff00, 0 0 40px #0081bc;
+}
+
+.userbtn{
+    background-color: blue;
+    color: pink;
+}
+
+#search{
+    background-color: green;
+
+}

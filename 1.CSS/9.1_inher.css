@@ -1,0 +1,28 @@
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+    background-color: blue;
+}
+
+/* body{
+    background-color: rgb(7, 109, 109);
+} */
+
+/* div:nth-of-type(2){ */
+    color: blue;
+/* } */
+
+h1::first-letter{
+    color: red;
+}
+
+p::first-line{
+    color:purple;
+}
+ div{
+    background-color: aqua;
+ }
+
+ input{
+    background-color: inherit;
+ }
